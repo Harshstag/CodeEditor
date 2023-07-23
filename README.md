@@ -1,8 +1,6 @@
 # Code Editor - by harshStag
 
-![Image Description]([image_url](https://drive.google.com/file/d/1PKJxxgJQ-XnKN37Vasb0FjwaMfHMYQIO/view?usp=sharing
-))
-
+![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1-RuKYOtZ0rF9OQjVwUKFq2COSZ-7nLWy/view?usp=sharing))
 
 
 
